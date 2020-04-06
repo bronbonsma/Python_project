@@ -1,0 +1,20 @@
+When would the use of generators be preferred over list comprehension and vice versa:
+
+
+When we would use List Comprehension :
+- List comprehensions are enclosed in []
+-When we need our code to be super fast with no delay
+-If we have a large amount of resources
+-When the result needs to be iterated over multiple times
+
+
+When we would use Generator:
+-Generators are enclosed in ()
+-In expressions where the range is large or infinite
+-When time is not paramount
+-If resources are limited
+
+
+
+
+)
